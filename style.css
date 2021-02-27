@@ -4,3 +4,25 @@ body{
     background-color: darkgrey;
     font-family: 'Maitree', serif;
 }
+
+div {
+    color:blue;
+}
+
+.bg-color-red {
+    background-color: red;
+    font-size: 50px;
+}
+
+.bg-color-green {
+    background-color: green;
+}
+
+.border-1-radius {
+    background-color:#ed710a;
+    color:#cda833;
+    border: 1px solid #ededed;
+    border-radius: 5px;
+    margin: 2px;
+    padding: 10px;
+}
