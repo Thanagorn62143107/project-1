@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Maitree&display=swap');
+
 body{
     background-color: darkgrey;
+    font-family: 'Maitree', serif;
 }
